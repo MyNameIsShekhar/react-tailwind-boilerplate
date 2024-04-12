@@ -6,7 +6,8 @@ import {
   Input,
 } from "@material-tailwind/react";
 import { BellIcon, Cog6ToothIcon } from "@heroicons/react/24/solid";
- 
+import './index.css'; // Make sure this line is included
+
 function App() {
   return (
     <Navbar
