@@ -7,7 +7,7 @@ import {
 } from "@material-tailwind/react";
 import { BellIcon, Cog6ToothIcon } from "@heroicons/react/24/solid";
  
-export function App() {
+function App() {
   return (
     <Navbar
       variant="gradient"
